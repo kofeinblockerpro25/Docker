@@ -34,3 +34,7 @@ After installation, check your version:
 - Go to Options -> File Settings.
 
 ### 4. Start  🎶
+## 📌 Keywords
+**Docker**, **containerized application**, **Dockerfile**, **docker-compose**, **cross-platform container**, **DevOps**, **CI/CD**, **lightweight app deployment**, **microservices**, **cloud-native**, **infrastructure as code**, **portability**, **docker tutorial**, **build and run containers**, **Linux containers**, **development environment**, **local server**, **app in a container**, **Docker beginner project**, **fast deployment tools**
+
+
